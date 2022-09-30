@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniele</h1>
-<h3 align="center">A passionate and self-driving backend engineer</h3>
+<h3 align="center">A passionate and self driven backend engineer with a passion for devops methodologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overbit&label=Profile%20views&color=0e75b6&style=flat" alt="overbit" /> </p>
 
@@ -7,9 +7,10 @@
 
 - 💬 Ask me about **serverless, devops, ci, graphql**
 
+- 📫 How to reach me **2861984+overbit@users.noreply.github.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/overbit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="overbit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=overbit&show_icons=true&locale=en&layout=compact" alt="overbit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=overbit&show_icons=true&locale=en" alt="overbit" /></p>
-
