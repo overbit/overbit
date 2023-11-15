@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dani</h1>
-<h3 align="center">A passionate and self-driven software engineer with a passion for <a href="https://en.wikipedia.org/wiki/DevOps">devops methodology</a></h3>
-
 ```shell
 $ uname -a
-Italian half-stack engineer in love with food. 
+Dani, Italian half-stack engineer in love with food and devops
 ```
 
 ### 📫 How to reach me
