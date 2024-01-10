@@ -1,6 +1,6 @@
 ```shell
 $ uname -a
-Dani, Italian half-stack engineer in love with food and devops
+Dani, Italian software engineer in love with food and tech
 ```
 
 ### 📫 How to reach me
