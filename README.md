@@ -6,7 +6,6 @@ Dani, Italian software engineer in love with food and tech
 ### 📫 How to reach me
  [![email](https://img.shields.io/badge/@overbit-lightgrey?style=for-the-badge)](mailto:2861984+overbit@users.noreply.github.com)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieleiasella) 
- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13328183) 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ov3rbit) 
 
 ### This is my jam!
