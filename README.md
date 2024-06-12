@@ -1,6 +1,6 @@
 ```shell
 $ uname -a
-Dani, techie in love with food and tech
+Dani, techie in love with food
 ```
 
 ### 📫 How to reach me
